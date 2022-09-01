@@ -1,1 +1,3 @@
-# OakleyInternship
+# OakleyInternship Excel VBA Files
+
+These are the two files I was able to take away from my Oakley Internship. The configurator file which is used by product and creative teams has a connection string to the engineering team's SQL database which allows the user to select a pair of sunglasses then configure each component. There are two forms frame and lens. Once the product is fully configured it is ready to uploaded to PLM without SKU errors. The uploader file is used by engineering and creative teams. The data is input into excel in a controlled form then the user is able upload the new entry into the engineering teams SQL database.   
